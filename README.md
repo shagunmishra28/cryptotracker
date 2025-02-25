@@ -26,7 +26,7 @@ The application features a comprehensive main tab that displays the top 100 cryp
 
 ## Demo
 
-You can see a live demo of the CryptoTrack application [right here](https://feliperdamaceno.github.io/crypto-tracker).
+You can see a live demo of the CryptoTrack application [right here](https://github.com/shagunmishra28/cryptotracker).
 
 ![page-showcase](app-showcase/app-showcase-1.gif)
 
@@ -40,8 +40,8 @@ This is an open-source project and is available under the [**MIT License**](LICE
 
 Contributions are highly appreciated! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-[feliperdamaceno](https://github.com/feliperdamaceno)
+[Shagunmishra](https://github.com/shagunmishra28)
 
 ## Contact me
 
-Linkedin: [feliperdamaceno](https://www.linkedin.com/in/feliperdamaceno)
+Linkedin: (Shagun Mishra)(linkedin.com/in/shagunmishra)
